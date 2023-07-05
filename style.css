@@ -23,3 +23,22 @@ footer {
     color: midnightblue;
 }
 
+.card {
+    width: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.tile-image {
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+} 
+
+
